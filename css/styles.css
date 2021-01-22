@@ -159,6 +159,12 @@ sub {
 sup {
   top: -0.5em;
 }
+em {
+  color: #c06475;
+  text-decoration: none;
+  background-color: transparent;
+  font-weight: 600;
+}
 
 a {
   color: #c06475;
